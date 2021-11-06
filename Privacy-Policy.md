@@ -1,8 +1,8 @@
-**Land Acknowledgment**
+# **Land Acknowledgment**
 
 The land on which The Woodlands Secondary School operates is the territory of the Mississaugas of the Credit First Nation and the traditional homeland of the Anishinaabe, Wendat, and Haudenosaunee nations. This territory is covered by the Upper Canada Treaties and is within the lands protected by the “Dish with One Spoon” wampum agreement. Today, this place is still home to many First Nations, Métis, and Inuit peoples, and we are grateful to have the opportunity to live and work on this land.
 
-**Privacy Policy**
+# **Privacy Policy**
 
 Last updated November 6, 2021
 
@@ -14,7 +14,7 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments. We are not responsible for any of the data collected by any such third party.
 
-**Usage of User information**
+# **Usage of User information**
 
 The only data stored are the user's PDSB email address, notification subscriptions, and data regarding song requests. None of this data is shared with any third parties and is only used for the function of the Application.
 
@@ -26,9 +26,11 @@ By using the Application, you are entitled to the following rights:
 
     You are entitled to the right to delete your account and all associated information by following the instructions defined in the _"Account Deletion"_ section of this document.
 
+
 **Account deletion**
 
 To request the deletion of your account, you can contact us at **woodlandsappteam@gmail.com**. Upon the deletion of your account, any and all of your account data will be deleted from our database.
+
 
 **Other notices**
 
