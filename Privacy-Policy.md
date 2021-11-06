@@ -29,9 +29,4 @@ By using the Application, you are entitled to the following rights:
 
 **Account deletion**
 
-To request the deletion of your account, you can contact us at **woodlandsappteam@gmail.com**. Upon the deletion of your account, any and all of your account data will be deleted from our database.
-
-
-**Other notices**
-
-In the event of an extraterrestrial species invading the Dominion of Canada, the user is entitled to having all submitted song requests approved. This is to be done on request by contacting us at **woodlandsappteam@gmail.com**
+To request the deletion of your account, you can contact us at `woodlandsappteam@gmail.com`. Upon the deletion of your account, any and all of your account data will be deleted from our database.
